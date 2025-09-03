@@ -127,3 +127,14 @@ footer h1{
   box-shadow: 3px 2px 15px rgb(117, 117, 117);
   transition: 0.3s;
 }
+
+.table{
+  background-color: var(--color1);
+  width: 100%;
+}
+
+tr, td{
+  border: 2px solid white;
+  color: var(--color2);
+  padding: 5px;
+}
